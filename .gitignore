@@ -1,0 +1,3 @@
+# clearly we don't wanna upload huge amounts of data
+/data/
+/.DS_Store/
